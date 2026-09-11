@@ -1,5 +1,5 @@
 ## 1. Link: Jira quản lý dự án
-https://nguyenkhaluan.atlassian.net/?continue=https%3A%2F%2Fnguyenkhaluan.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10001&atlOrigin=eyJpIjoiOTZlYWNmNTliNTc3NDhjMWJlMzI3NjViOTE4NGEyZDIiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
+https://doanthuchanhdaai.atlassian.net/?continue=https%3A%2F%2Fdoanthuchanhdaai.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10001&atlOrigin=eyJpIjoiYTZhZDZiOTU1NDliNDAwMzlkYjAwNzY5MDA0NjRhMjkiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
 
 ## 2. Danh sách thành viên
 24713371-Nguyen Kha Luan<br>
